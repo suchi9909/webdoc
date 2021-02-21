@@ -9,11 +9,11 @@
   	var inputNavbar = document.getElementById("search-navbar");
 
     var list = [
-          { label: "How do I enable payment gateway?", 					        value: "doc.html" },
-          { label: "What happens if I clear cache?", 						        value: "doc.html" },
-          { label: "Which payment methods do you offer?", 				      value: "doc.html" },
-          { label: "How long does it take to propagate DNS settings?", 	value: "doc.html" },
-          { label: "How can I force SSL certificate?", 					        value: "doc.html" }
+          { label: "Difference Between bootstrap 4 & 5", 					        value: "https://medium.com/better-programming/5-new-features-in-bootstrap-5-e122ad2386dc" },
+          { label: "What is Gulp", 						        value: "https://gulpjs.com/" },
+          { label: "What are my tasks", 				      value: "task.html" },
+          { label: "Set of rules", 	value: "rules.html" },
+          { label: "Plugin", 					        value: "plugin.html" }
         ];
 
     if (inputHero) {
